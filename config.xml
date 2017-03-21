@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="libertyleatherstores.com" id="libertyleatherstores.com" version="1.0">
   <name>Liberty Leather Stores</name>
   <description>Liberty Leather Stores</description>
-  <author href="http://libertyleatherstores.com" email="info@itcoordinates.com">Liberty Leather Stores</author>
+  <author href="http://libertyleatherstores.com" email="info@libertyleatherstores.com">Liberty Leather Stores</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
