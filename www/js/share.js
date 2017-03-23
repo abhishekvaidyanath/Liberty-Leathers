@@ -24,7 +24,7 @@ function whatsappShare(){
 		});
     }, 
                                                  null, 
-                                                 function(errormsg){alert("Error: Cannot Share")}
+                                                 /*function(errormsg){alert("Error: Cannot Share")*/}
                                                  );
 };
 
