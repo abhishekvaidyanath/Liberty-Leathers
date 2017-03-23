@@ -9,7 +9,7 @@ function fbShare(){
 		});
     }, 
                                                  null, 
-                                                 function(errormsg){alert("Error: Cannot Share")}
+                                                 /*function(errormsg){alert("Error: Cannot Share")*/}
                                                  );
 };
 
@@ -39,7 +39,7 @@ function twitterShare(){
 		});
     }, 
                                                  null, 
-                                                 function(errormsg){alert("Error: Cannot Share")}
+                                                 /*function(errormsg){alert("Error: Cannot Share")*/}
                                                  );
   };
 
