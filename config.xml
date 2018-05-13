@@ -4,7 +4,7 @@
   <author href="http://libertyleatherstores.com" email="info@libertyleatherstores.com">Liberty Leather Stores</author>
   <content src="index.html"/>
   
-  <preference name="phonegap-version" value="cli-7.0.1" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   
   <preference name="permissions" value="none" />
   <preference name="DisallowOverscroll" value="true"/>
