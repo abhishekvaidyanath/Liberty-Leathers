@@ -3,6 +3,12 @@
   <description>Liberty Leather Stores</description>
   <author href="http://libertyleatherstores.com" email="info@libertyleatherstores.com">Liberty Leather Stores</author>
   <content src="index.html"/>
+  
+  <uses-permission android:name="android.permission.RECORD_AUDIO" tools:node="remove" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" tools:node="remove" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" tools:node="remove" />
+  <uses-permission android:name="android.permission.READ_CONTACTS" tools:node="remove" />
+  
   <preference name="permissions" value="none" />
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
