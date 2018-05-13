@@ -4,6 +4,9 @@
   <author href="http://libertyleatherstores.com" email="info@libertyleatherstores.com">Liberty Leather Stores</author>
   <content src="index.html"/>
   
+  <preference name="AndroidLaunchMode" value="singleTop"/>
+    <preference name="android-minSdkVersion" value="26" />
+  
   <preference name="phonegap-version" value="cli-6.5.0" />
   
   <preference name="permissions" value="none" />
